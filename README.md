@@ -1,0 +1,2 @@
+# slpclogit
+sub-linked pclogit
